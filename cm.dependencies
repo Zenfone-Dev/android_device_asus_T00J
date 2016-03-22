@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_asus_cvtlp-common",
+    "target_path": "device/asus/cvtlp-common"
+  }
+]
